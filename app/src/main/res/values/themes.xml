@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme - ALWAYS LIGHT MODE -->
+    <style name="Base.Theme.SmartTaskManager" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Always light theme - ignore dark mode -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+        <item name="android:navigationBarColor">@color/colorPrimaryDark</item>
+        <item name="android:forceDarkAllowed" tools:targetApi="q">false</item>
+    </style>
+
+    <style name="Theme.SmartTaskManager" parent="Base.Theme.SmartTaskManager" />
+
+    <style name="Theme.SmartTaskManager.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.SmartTaskManager.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.SmartTaskManager.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

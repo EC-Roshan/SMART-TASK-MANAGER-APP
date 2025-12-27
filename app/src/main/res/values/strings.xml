@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Smart Task Manager</string>
+    <string name="app_logo">App Logo</string>
+    <string name="smart_task_manager">Smart Task Manager</string>
+    <string name="first">first</string>
+    <string name="set_deadlines">Set Deadlines</string>
+    <string name="stay_on_top_of_your_tasks_by_setting_due_date">Stay On Top Of Your Tasks By Setting Due Date</string>
+    <string name="second">second</string>
+    <string name="set_reminder">Set Reminder</string>
+    <string name="get_notified_before_your_tasks_are_due">Get Notified before Your Tasks Are Due</string>
+    <string name="third">third</string>
+    <string name="track_progress">Track Progress</string>
+    <string name="visualize_your_productivity_and_build_streaks">Visualize Your Productivity And Build Streaks</string>
+    <string name="get_started">Get Started</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="add_task">Add Task</string>
+    <string name="your_personal_assistant">Your Personal Assistant</string>
+    <string name="setting">Setting</string>
+    <string name="statistic_report">Statistic Report</string>
+    <string name="about_us">About us</string>
+    <string name="title">Title</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="description">Description</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="due_date">Due Date</string>
+    <string name="enter_due_date">Enter Due Date</string>
+    <string name="priority">Priority</string>
+    <string name="dd_mm_yyyy">dd/mm/yyyy</string>
+    <string name="essential">Essential</string>
+    <string name="important">Important</string>
+    <string name="flexible">Flexible</string>
+    <string name="category">Category</string>
+    <string name="enter_work_category">Enter Work Category</string>
+    <string name="save">Save</string>
+    <string name="date">Date</string>
+    <string name="due_time">Due Time</string>
+    <string name="hh_mm_ss">hh:mm:ss</string>
+    <string name="time">Time</string>
+    <string name="statistics">Statistics</string>
+    <string name="task_status">Task Status</string>
+    <string name="task_priority">Task Priority</string>
+    <string name="task_list">Task List</string>
+    <string name="no_tasks_yet">No tasks yet</string>
+    <string name="update_task">Update Task</string>
+    <string name="task_detail">Task Detail</string>
+    <string name="update">Update</string>
+
+
+</resources>
